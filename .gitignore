@@ -1,0 +1,18 @@
+## Visual Studio and .NET ignores
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Temporary and Office Lock files
+~$*
+*.tmp
+*.log
+
+## Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
