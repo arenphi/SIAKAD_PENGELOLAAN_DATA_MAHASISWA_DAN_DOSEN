@@ -87,4 +87,4 @@ tugas9formmahasiswa/
 ## 📄 Dokumentasi Akademik
 
 Laporan praktikum akademik lengkap (5 Bab standar akademik, tabel pengujian, pseudocode, analisis kinerja, dan pembuktian teoretis) disertakan dalam format Microsoft Word:
-- [`Laporan_Praktikum_Data_Mahasiswa_Revisi.docx`](./Laporan_Praktikum_Data_Mahasiswa_Revisi.docx)
+- [`Laporan_Praktikum_Data_Mahasiswa.docx`](./312410278_ReynaldiNP_PV-Pert9.pdf.docx)
